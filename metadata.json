@@ -1,0 +1,9 @@
+{
+  "name": "Google AI Studio Pro - Arabic & Unlimited Edition",
+  "description": "منصة Google AI Studio الاحترافية غير المحدودة مع لوحة تحكم الأدمن، تجربة VIP وتوليد تطبيقات وبوتات تفاعلية مع كود ومعاينة حية وتخزين المحادثات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+

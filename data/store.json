@@ -1,0 +1,86 @@
+{
+  "users": {
+    "user-default": {
+      "id": "user-default",
+      "name": "viphager43",
+      "email": "viphager43@gmail.com",
+      "credits": 1599,
+      "isVip": true,
+      "vipExpiresAt": null,
+      "totalPrompts": 19,
+      "lastActive": "2026-10-06T14:16:42.408Z",
+      "createdAt": "2026-10-06T13:31:22.426Z",
+      "status": "active"
+    },
+    "user-vip": {
+      "id": "user-vip",
+      "name": "مستخدم بريميوم (VIP Pro)",
+      "email": "vip@ai-studio.pro",
+      "credits": 11999,
+      "isVip": true,
+      "vipExpiresAt": null,
+      "totalPrompts": 45,
+      "lastActive": "2026-10-06T13:31:22.426Z",
+      "createdAt": "2026-10-06T13:31:22.426Z",
+      "status": "active"
+    },
+    "user-admin": {
+      "id": "user-admin",
+      "name": "المدير العام (System Admin)",
+      "email": "admin@ai-studio.pro",
+      "credits": 101499,
+      "isVip": true,
+      "vipExpiresAt": null,
+      "totalPrompts": 80,
+      "lastActive": "2026-10-06T13:31:22.426Z",
+      "createdAt": "2026-10-06T13:31:22.426Z",
+      "status": "active"
+    }
+  },
+  "codes": [
+    {
+      "id": "code-1",
+      "code": "VIP-PRO-UNLIMITED",
+      "type": "vip_lifetime",
+      "creditsAmount": 5000,
+      "maxUses": 100,
+      "usedCount": 3,
+      "usedBy": [
+        "user-vip"
+      ],
+      "createdAt": "2026-10-06T13:31:22.426Z",
+      "active": true
+    },
+    {
+      "id": "code-2",
+      "code": "FREE-500-CREDITS",
+      "type": "credits",
+      "creditsAmount": 500,
+      "maxUses": 50,
+      "usedCount": 6,
+      "usedBy": [
+        "user-default"
+      ],
+      "createdAt": "2026-10-06T13:31:22.426Z",
+      "active": true
+    },
+    {
+      "id": "code-3",
+      "code": "VIP-GOLDEN-PASS",
+      "type": "vip_30days",
+      "creditsAmount": 2000,
+      "maxUses": 20,
+      "usedCount": 0,
+      "usedBy": [],
+      "createdAt": "2026-10-06T13:31:22.426Z",
+      "active": true
+    }
+  ],
+  "settings": {
+    "globalAnnouncement": "مرحباً بك في استوديو الذكاء الاصطناعي الاحترافي غير المحدود! يعمل بكامل طاقته 24/7 دون قيود يومية.",
+    "announcementActive": true,
+    "defaultCredits": 100,
+    "unlimitedFreeAccess": true,
+    "systemName": "AI Studio Arabic Pro"
+  }
+}
